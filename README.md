@@ -12,4 +12,4 @@ ___
 
 ___
 
-- [Flask and ReAct fullstack app on multiple docker containers](https://github.com/ThivaV/flask_and_react_fullstack_app_demo)
+- [Flask and ReAct fullstack app on multiple docker containers](https://github.com/ThivaV/flask_and_react_fullstack_app_on_multiple_docker_containers)
