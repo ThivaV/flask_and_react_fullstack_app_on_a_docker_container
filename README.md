@@ -7,7 +7,7 @@ ___
 
 - Build an image: `sudo docker build -t <IMAGE_NAME> .`
 - Build run a container with change detect: `sudo docker run -p 90:5000 -v $(pwd):/app <IMAGE_NAME>`
-- Build run: `sudo docker run -d -p 90:5000 <IMAGE_NAME>`
+- Build run: `sudo docker run -d -p 3000:3000 -p 90:5000 <IMAGE_NAME>`
 - Build run with bash into the container: `sudo docker run -it <IMAGE_NAME> bash`
 
 ___
